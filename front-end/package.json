@@ -1,0 +1,35 @@
+{
+  "name": "logindemo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "async": "^2.5.0",
+    "ejs": "^2.5.7",
+    "fs": "^0.0.1-security",
+    "material-ui": "^0.19.4",
+    "multer": "^1.3.0",
+    "node-cmd": "^3.0.0",
+    "prop-types": "^15.6.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-dropzone": "^4.2.0",
+    "react-file-input": "^0.2.5",
+    "react-folder-tree": "^3.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.13",
+    "react-stars": "^2.2.4",
+    "superagent": "^3.6.3",
+    "mocha": "^4.0.1",
+    "reactui": "^0.0.7",
+    "should": "^13.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "kafka-node": "^2.2.3"
+  }
+}
