@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "ejs": "^2.5.7",
     "fs": "^0.0.1-security",
     "material-ui": "^0.19.4",
