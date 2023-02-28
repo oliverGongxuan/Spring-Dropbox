@@ -19,7 +19,7 @@
     "react-scripts": "1.0.13",
     "react-stars": "^2.2.4",
     "superagent": "^3.6.3",
-    "mocha": "^4.0.1",
+    "mocha": "^10.2.0",
     "reactui": "^0.0.7",
     "should": "^13.1.2"
   },
